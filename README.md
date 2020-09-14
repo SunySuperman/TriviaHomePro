@@ -25,7 +25,12 @@ Sau khi lấy vị trí bạn cần phải lưu lại.
 `Lưu ý: Bạn cần chọn đúng game của mình để trách tesseract ocr đọc sai ngôn ngữ`
 
 ## Ảnh chụp màn hình
-<img src="https://github.com/sushant10/HQ_Bot/blob/master/Screens/screenshot3.png" width="900" height="540" />
+<img src="https://github.com/SunySuperman/TriviaHomePro/blob/master/Screen/1.png" width="900" height="540" />
+<img src="https://github.com/SunySuperman/TriviaHomePro/blob/master/Screen/2.png" width="900" height="540" />
+<img src="https://github.com/SunySuperman/TriviaHomePro/blob/master/Screen/3.png" width="900" height="540" />
+<img src="https://github.com/SunySuperman/TriviaHomePro/blob/master/Screen/4.png" width="900" height="540" />
+<img src="https://github.com/SunySuperman/TriviaHomePro/blob/master/Screen/5.png" width="900" height="540" />
+<img src="https://github.com/SunySuperman/TriviaHomePro/blob/master/Screen/6.png" width="900" height="540" />
 <img src="https://github.com/sushant10/HQ_Bot/blob/master/Screens/screenshot2.png" width="500" height="320" />
 
 ## Liên hệ
